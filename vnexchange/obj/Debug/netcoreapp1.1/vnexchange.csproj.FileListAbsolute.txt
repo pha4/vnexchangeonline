@@ -1,0 +1,10 @@
+I:\projects\vnexchangeonline\vnexchange\bin\Debug\netcoreapp1.1\vnexchange.deps.json
+I:\projects\vnexchangeonline\vnexchange\bin\Debug\netcoreapp1.1\vnexchange.runtimeconfig.json
+I:\projects\vnexchangeonline\vnexchange\bin\Debug\netcoreapp1.1\vnexchange.runtimeconfig.dev.json
+I:\projects\vnexchangeonline\vnexchange\bin\Debug\netcoreapp1.1\vnexchange.dll
+I:\projects\vnexchangeonline\vnexchange\bin\Debug\netcoreapp1.1\vnexchange.pdb
+I:\projects\vnexchangeonline\vnexchange\obj\Debug\netcoreapp1.1\vnexchange.csprojResolveAssemblyReference.cache
+I:\projects\vnexchangeonline\vnexchange\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+I:\projects\vnexchangeonline\vnexchange\obj\Debug\netcoreapp1.1\vnexchange.AssemblyInfo.cs
+I:\projects\vnexchangeonline\vnexchange\obj\Debug\netcoreapp1.1\vnexchange.dll
+I:\projects\vnexchangeonline\vnexchange\obj\Debug\netcoreapp1.1\vnexchange.pdb
